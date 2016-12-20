@@ -1,0 +1,10 @@
+{
+  "require" : {
+	  "php": "~5.6.0",
+	  "ext-mbstring": "*",
+	  "aws/aws-sdk-php":"~3"
+  },
+  "require-dev": {
+    "heroku/heroku-buildpack-php": "*"
+  }
+}
